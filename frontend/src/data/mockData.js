@@ -162,7 +162,7 @@ export const projects = [
 ];
 
 export const socialLinks = [
-  { name: "LinkedIn", url: "https://linkedin.com/in/hemkumar-vitta", icon: "linkedin" },
+  { name: "LinkedIn", url: "https://www.linkedin.com/in/hemkumarvitta", icon: "linkedin" },
   { name: "GitHub", url: "https://github.com/Hemkumar247", icon: "github" },
   { name: "Email", url: "mailto:hemkumarvitta@gmail.com", icon: "mail" }
 ];
