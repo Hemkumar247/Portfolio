@@ -8,7 +8,7 @@ export const personalInfo = {
   github: "Hemkumar247",
   linkedin: "hemkumar-vitta",
   profileImage: "/001img.jpg",
-  aboutImage: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=600&h=800&fit=crop&crop=face"
+  aboutImage: "https://customer-assets.emergentagent.com/job_craft-presence-1/artifacts/fdnst72k_002img.jpg"
 };
 
 export const skills = {
