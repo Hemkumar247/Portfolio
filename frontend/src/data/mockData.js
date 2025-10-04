@@ -47,7 +47,7 @@ export const projects = [
     title: "SignLearn: Real-Time Indian Sign Language Translation App",
     category: "AI/ML",
     shortDescription: "Real-time Indian Sign Language translation app with 95% accuracy using CNN and TensorFlow",
-    image: "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&h=600&fit=crop",
+    image: "https://images.unsplash.com/photo-1640550444366-b94e5752c479?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1Nzh8MHwxfHNlYXJjaHwxfHxzaWduJTIwbGFuZ3VhZ2V8ZW58MHx8fHwxNzU5NTc0ODQyfDA&ixlib=rb-4.1.0&q=85",
     featured: true,
     role: "Lead Developer & AI Engineer",
     timeline: "6 months",
@@ -57,9 +57,9 @@ export const projects = [
     solution: "Architected a full-stack Flutter app with a custom CNN trained using TensorFlow, optimized for low-latency mobile deployment while maintaining 95% translation accuracy.",
     results: ["95% Accuracy Rate", "Government of India Copyright", "Real-time Mobile Performance", "Accessibility Impact"],
     gallery: [
-      "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&h=600&fit=crop"
+      "https://images.unsplash.com/photo-1640550444366-b94e5752c479?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1Nzh8MHwxfHNlYXJjaHwxfHxzaWduJTIwbGFuZ3VhZ2V8ZW58MHx8fHwxNzU5NTc0ODQyfDA&ixlib=rb-4.1.0&q=85",
+      "https://images.pexels.com/photos/4061218/pexels-photo-4061218.jpeg",
+      "https://images.pexels.com/photos/4629633/pexels-photo-4629633.jpeg"
     ]
   },
   {
