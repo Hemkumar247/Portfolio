@@ -126,7 +126,7 @@ export const projects = [
     title: "Sentiment Analysis Pipeline - Mastercard",
     category: "Data Science",
     shortDescription: "Automated web scraping and sentiment analysis of customer reviews",
-    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop",
+    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDQ2NDF8MHwxfHNlYXJjaHwxfHxkYXRhJTIwdmlzdWFsaXphdGlvbnxlbnwwfHx8fDE3NTk1NzQ4ODF8MA&ixlib=rb-4.1.0&q=85",
     featured: false,
     role: "Cybersecurity Intern & Data Analyst",
     timeline: "3 months",
@@ -136,8 +136,9 @@ export const projects = [
     solution: "Engineered an automated web scraping pipeline using Python and Selenium, applying NLP techniques to identify key themes and sentiment drivers from over 1,000 customer reviews.",
     results: ["1,000+ Reviews Processed", "Automated Data Pipeline", "Actionable Insights Generated", "Service Improvement Strategies"],
     gallery: [
-      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop"
+      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDQ2NDF8MHwxfHNlYXJjaHwxfHxkYXRhJTIwdmlzdWFsaXphdGlvbnxlbnwwfHx8fDE3NTk1NzQ4ODF8MA&ixlib=rb-4.1.0&q=85",
+      "https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDQ2NDF8MHwxfHNlYXJjaHwyfHxkYXRhJTIwdmlzdWFsaXphdGlvbnxlbnwwfHx8fDE3NTk1NzQ4ODF8MA&ixlib=rb-4.1.0&q=85",
+      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDQ2NDF8MHwxfHNlYXJjaHwzfHxkYXRhJTIwdmlzdWFsaXphdGlvbnxlbnwwfHx8fDE3NTk1NzQ4ODF8MA&ixlib=rb-4.1.0&q=85"
     ]
   },
   {
